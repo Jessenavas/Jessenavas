@@ -1,6 +1,5 @@
 ﻿## Hi there 👋
 
-<!--
 **Jessenavas/Jessenavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ El agua de Horchata es superior pero Naomi y Mario no lo aceptan
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
